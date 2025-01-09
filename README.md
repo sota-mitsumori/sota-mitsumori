@@ -24,7 +24,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=sota-mitsumori&theme=vue-dark&layout=compact&count_private=true" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-clone-flame.vercel.app/api?username=sota-mitsumori&theme=vue-dark&layout=compact&count_private=true" />
   <img alt="github stats" height="170px" src="https://github-readme-stats-clone-flame.vercel.app/api/top-langs/?username=sota-mitsumori&theme=vue-dark&layout=compact" />
 </div>
 
