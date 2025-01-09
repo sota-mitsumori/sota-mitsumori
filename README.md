@@ -9,7 +9,6 @@
 
 - 🧑‍💻 I'm a CS student in Japan!.
 - 🌱 I’m currently learning Swift and Python!
-- 📫 How to reach me: [X - @sotamitsumori](https://x.com/sotamitsumori)
 <br>
 
 
