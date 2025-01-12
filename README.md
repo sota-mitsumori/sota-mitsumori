@@ -25,7 +25,7 @@
 ## 🏃‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-clone-flame.vercel.app/api?username=sota-mitsumori&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats-clone-flame.vercel.app/api/top-langs/?username=sota-mitsumori&theme=vue-dark&exclude_repo=github-readme-stats" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-clone-flame.vercel.app/api/top-langs/?username=sota-mitsumori&layout=compact&theme=vue-dark&exclude_repo=github-readme-stats" />
 </div>
 
 
